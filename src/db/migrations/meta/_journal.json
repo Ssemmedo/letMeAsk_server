@@ -8,6 +8,13 @@
       "when": 1751981198533,
       "tag": "0000_demonic_leader",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752064351758,
+      "tag": "0001_tiresome_master_chief",
+      "breakpoints": true
     }
   ]
 }
